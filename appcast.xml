@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Zound</title>
+        <item>
+            <title>1.2.1</title>
+            <pubDate>Sun, 19 Apr 2026 02:05:42 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound-1.2.1-10.zip" length="4664320" type="application/octet-stream" sparkle:edSignature="mJsjxB8KkUiVNAJ/Uc2Yp93wrmWKMyK99qG+ha5LrpS96VmS6tJKw1XgAPUjuKevupGloE68QYihgQOqDMP1AA=="/>
+        </item>
+    </channel>
+</rss>
