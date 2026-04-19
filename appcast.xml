@@ -3,6 +3,17 @@
     <channel>
         <title>Zound</title>
         <item>
+            <title>1.2.2</title>
+            <pubDate>Sun, 19 Apr 2026 16:06:59 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound-1.2.2-11.zip" length="4715677" type="application/octet-stream" sparkle:edSignature="3Uqe1O4r6cD8gzqKJ28ez8uU8WKVBBWA4Kl/lF3cfKriCdf9rrykfaqAnuaSQJtB48UGIIx9zDJq1iqQBRD/AQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound11-10.delta" sparkle:deltaFrom="10" length="353614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M8fvH8EU6UFbSGmxGaDYZTkxvPTlqzgRy0mkKjf+BZ+trvK4rZAaiKlLKlBCZO/YXCzWCSwL+qFKN26OUQFDAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.1</title>
             <pubDate>Sun, 19 Apr 2026 02:05:42 +0000</pubDate>
             <sparkle:version>10</sparkle:version>
