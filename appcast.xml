@@ -3,6 +3,20 @@
     <channel>
         <title>Zound</title>
         <item>
+            <title>1.4.1</title>
+            <pubDate>Thu, 23 Apr 2026 03:24:13 +0000</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound-1.4.1-14.zip" length="4811692" type="application/octet-stream" sparkle:edSignature="yWnO8VeOdSAqvyRZY8YAqJDSG7Vq8rG7Nn/JGmqJE19agoflgM1+IxqtuVZKjwM+dvyM3XHKcB0A1HsXd+moCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound14-13.delta" sparkle:deltaFrom="13" length="279094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="02Z5WvaQATYHsMxWq3me9RHLnBCKuWOCIZ7TSbrrqBNcaBLhDJTFWjWkOZbVtCGHRJdbhO07wmgibV4wskx0Dw=="/>
+                <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound14-12.delta" sparkle:deltaFrom="12" length="300738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cEURedTIE3PIt6mkCzmZwzRQ17ekS09G+W6EeINuxPtW6zVUGkeRzSgUdDZnBo13Px8Gk9pTYVS4KnFIp31wCg=="/>
+                <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound14-11.delta" sparkle:deltaFrom="11" length="1506746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BihJjNWQ81VWi46domMCm/QaVc5+yzM2dYoXTke+Utk7Kr9oLgbWLaUenlk3vvDjOxicIyg8OLTbmeciYM9FBQ=="/>
+                <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound14-10.delta" sparkle:deltaFrom="10" length="1587514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="W+gouXBNQMKo49Ws+YOYUd4CINlAwvcxK72sVgXzJwNOsA4+fMoz8yzeXID6DWU4MUvENyCdikApTOb4PVPLCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Tue, 21 Apr 2026 17:25:47 +0000</pubDate>
             <sparkle:version>13</sparkle:version>
@@ -25,17 +39,6 @@
             <sparkle:deltas>
                 <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound12-11.delta" sparkle:deltaFrom="11" length="1482614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="e3G0w6VvsfB0BrXaj8lu8BJIjBxyoqN+3OA90Tk3wDQtfviCvGo3jStalTwRGsTuB54EV3r9eyv/52GCYEz6Dw=="/>
                 <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound12-10.delta" sparkle:deltaFrom="10" length="1569990" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nq/hqsuYYqF68fSstRur61l2sWnnTBjOPQPiqk/MVlxZ/9R2ETl/jLkv2M5CK//Y9Ij19cOCCycjoIAKYmfECg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.2.2</title>
-            <pubDate>Sun, 19 Apr 2026 16:06:59 +0000</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound-1.2.2-11.zip" length="4715677" type="application/octet-stream" sparkle:edSignature="3Uqe1O4r6cD8gzqKJ28ez8uU8WKVBBWA4Kl/lF3cfKriCdf9rrykfaqAnuaSQJtB48UGIIx9zDJq1iqQBRD/AQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound11-10.delta" sparkle:deltaFrom="10" length="353614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M8fvH8EU6UFbSGmxGaDYZTkxvPTlqzgRy0mkKjf+BZ+trvK4rZAaiKlLKlBCZO/YXCzWCSwL+qFKN26OUQFDAw=="/>
             </sparkle:deltas>
         </item>
     </channel>
