@@ -3,6 +3,18 @@
     <channel>
         <title>Zound</title>
         <item>
+            <title>1.5.0</title>
+            <pubDate>Sun, 26 Apr 2026 15:50:16 +0800</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://zolplay-labs.github.io/zound-updates/Zound-1.5.0-18.md</sparkle:releaseNotesLink>
+            <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound-1.5.0-18.zip" length="4914507" type="application/octet-stream" sparkle:edSignature="LGR7oz8U5F/jEV7LEjiFpbmQziWC8ZNrsjsbfKaQNs5MDF0p+UukgVS3hXkniXOIGfqIu77onZpMfGVHicPbDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound18-17.delta" sparkle:deltaFrom="17" length="390166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5bjr/xuevmKkrpSOd/5kAZdnt6yGV0jrfx7f54GdbVC5kqd4QbZdefKgw7qFd47rjQmsqhu8US4JIrVbxxqeCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.2</title>
             <pubDate>Thu, 23 Apr 2026 20:14:57 +0800</pubDate>
             <sparkle:version>17</sparkle:version>
