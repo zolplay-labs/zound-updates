@@ -3,25 +3,13 @@
     <channel>
         <title>Zound</title>
         <item>
-            <title>1.5.0</title>
-            <pubDate>Sun, 26 Apr 2026 15:50:16 +0800</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <title>1.2026.427-1</title>
+            <pubDate>Mon, 27 Apr 2026 21:16:27 +0800</pubDate>
+            <sparkle:version>2026042701</sparkle:version>
+            <sparkle:shortVersionString>1.2026.427-1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://zolplay-labs.github.io/zound-updates/Zound-1.5.0-18.md</sparkle:releaseNotesLink>
-            <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound-1.5.0-18.zip" length="4837879" type="application/octet-stream" sparkle:edSignature="g9UOOtkx3iR3rcwf1Co/K2OMIkEVaF2PZ0dUHxXWIliCk4EuqxNyWh0+UYx3sDm3Tt9EDEXMBceDkRK47YjzCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound18-17.delta" sparkle:deltaFrom="17" length="390166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5bjr/xuevmKkrpSOd/5kAZdnt6yGV0jrfx7f54GdbVC5kqd4QbZdefKgw7qFd47rjQmsqhu8US4JIrVbxxqeCQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.4.2</title>
-            <pubDate>Thu, 23 Apr 2026 20:14:57 +0800</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://zolplay-labs.github.io/zound-updates/Zound-1.4.2-17.md</sparkle:releaseNotesLink>
-            <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound-1.4.2-17.zip" length="4893946" type="application/octet-stream" sparkle:edSignature="ow42+BqOZiorPFh93HFqXOn9Mvor+Vx1kvDELqqzDHTJhDvPWFSGF5kM8yehBBGk83/Ah3JO5X+QYEcwvfzUBg=="/>
+            <sparkle:releaseNotesLink>https://zolplay-labs.github.io/zound-updates/Zound-1.2026.427-1-2026042701.md</sparkle:releaseNotesLink>
+            <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound-1.2026.427-1-2026042701.zip" length="5298828" type="application/octet-stream" sparkle:edSignature="8msdL93ifRDFNBYf0VIlvX1hRAfz0xmh5XanSZParaiuLpDzyamqNN2HT4ZhdYTDqiHwI+QlGpPeVTLCpWfpCw=="/>
         </item>
     </channel>
 </rss>
