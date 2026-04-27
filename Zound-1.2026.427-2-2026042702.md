@@ -1,0 +1,2 @@
+- Switched hold-to-talk dictation to Cabin's async transcription pipeline for this MVP, avoiding the realtime gateway failure path while keeping voice typing available.
+- Dictation status and errors are now readable in the voice island instead of being cropped out.
