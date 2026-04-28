@@ -1,0 +1,3 @@
+- Restored low-latency hold-to-talk dictation by streaming microphone audio through Cabin's realtime gateway instead of uploading and polling a recording.
+- Removed transport status text from the voice island during dictation, keeping the active UI focused on the waveform and the final inserted text.
+- Shortened realtime finalization waits and kept Doubao credentials server-side while forwarding audio immediately.
