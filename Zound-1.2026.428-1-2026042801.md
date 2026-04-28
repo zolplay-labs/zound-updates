@@ -1,0 +1,1 @@
+- Lowered Zound's minimum macOS requirement to macOS Sequoia 15.0 or later.
