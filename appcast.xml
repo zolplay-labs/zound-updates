@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.2026.428-1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://zolplay-labs.github.io/zound-updates/Zound-1.2026.428-1-2026042801.md</sparkle:releaseNotesLink>
-            <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound-1.2026.428-1-2026042801.zip" length="5319300" type="application/octet-stream" sparkle:edSignature="uWuJCVzhGYYDk6vwUJcKu7bDa1FInCLvPq5cXa/6zCD8voNPcBR5ql2xrd6ILJBwH6/bUYyHzADEiqbD7l4yBw=="/>
+            <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound-1.2026.428-1-2026042801.zip" length="5242591" type="application/octet-stream" sparkle:edSignature="KrHKEIBwhsR3kBuxptzU6dD/pUuYqs4qm2Vo9CQVI3qnL6sNeqRO3c/diYCAMbWzavF3a3Gy70i1CdrK5/9CBQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound2026042801-18.delta" sparkle:deltaFrom="18" length="783994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DQqvW4OzrmsD6fsctBDFK310PUC0gIjXiF1sQo1wBbCbXdbz3U9hqW6rsbfnnpWX++vdyc+u5ktAtrndw0zyDw=="/>
                 <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound2026042801-17.delta" sparkle:deltaFrom="17" length="879742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+NAKq9h5IHdVAuDKMscoqaSKqFW518HeMxVQOzJWhAwT20BGNRYJVsxCerYLjJmnHRtdpoPD9Rprvp66R0KABg=="/>
