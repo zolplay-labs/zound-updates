@@ -1,0 +1,7 @@
+- Refined the Voice Island into a smaller, cleaner Liquid Glass-style panel that stays focused on dictation progress without extra transport text.
+- Live dictation now shows in-progress recognized text while you keep holding Fn, instead of waiting until the session finishes.
+- Final dictation text handles realtime sentinel markers and word boundaries more reliably, reducing stray tags and missing spaces in inserted text.
+- Settings now use a clearer sidebar layout with grouped rows, making Dictation, Dictionary, and General controls easier to scan.
+- Added an Enable Dictation switch so dictation can be turned off without changing shortcut or language preferences.
+- Expanded Activation Keys with right-side modifier keys and common modifier combinations, alongside Fn.
+- Added Hold, Toggle, Hold or Toggle, and Double Tap activation modes, with more reliable behavior when modifier chords change or dictation is disabled mid-session.
