@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.2026.509-2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://zolplay-labs.github.io/zound-updates/Zound-1.2026.509-2-2026050902.md</sparkle:releaseNotesLink>
-            <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound-1.2026.509-2-2026050902.zip" length="5442673" type="application/octet-stream" sparkle:edSignature="xXa9vJeoQryeau0k5xNXwKR10acUD3SLkHkwQX0rDHQEg+3aSL1/123y/17XemkXE+EPhigqHW5sfCoSChKdBQ=="/>
+            <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound-1.2026.509-2-2026050902.zip" length="5366095" type="application/octet-stream" sparkle:edSignature="yZfsdfvNtxdD19Gcossztw0N714aOyizGTa8ibJ3fnbuS/uV9Z9hwFYIrSoa3BlZ8gkXguL3ubVTYWnGnPYZAw=="/>
         </item>
     </channel>
 </rss>
