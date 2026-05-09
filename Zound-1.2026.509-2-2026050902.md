@@ -1,0 +1,2 @@
+- Fixed the update checker so Sparkle update windows come to the front when opened from the menu bar or Settings.
+- Improved the release installer so new installs use a signed DMG with an Applications shortcut, preventing macOS download-location launches from blocking future auto-updates.

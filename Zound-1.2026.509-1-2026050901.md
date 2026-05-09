@@ -1,1 +1,0 @@
-- Fixed microphone selection so recordings and hold-to-talk dictation use the input device you choose in Settings.
