@@ -1,0 +1,3 @@
+- Reduced Fn dictation startup latency by keeping a signed realtime gateway connection warm after launch and between dictation sessions.
+- Switched live hold-to-talk dictation to Soniox realtime transcription while keeping recording transcription on Doubao.
+- Added a Gateway Health check in Dictation Settings to verify the public realtime gateway and measure connection readiness.
