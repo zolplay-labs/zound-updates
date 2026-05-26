@@ -1,0 +1,2 @@
+- Fixed system-audio recording warnings so they appear as toasts instead of taking over the menu bar.
+- Fixed the Live Captions panel so it can be dragged to the top of the visible screen area.
