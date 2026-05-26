@@ -1,0 +1,3 @@
+- Reduced unnecessary error reports from expected microphone, activation, and system-audio states.
+- Fixed recording summaries so empty transcripts no longer trigger a summary failure.
+- Improved microphone cleanup to reduce the chance of Zound hanging while audio capture shuts down.
