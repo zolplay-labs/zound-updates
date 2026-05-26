@@ -1,0 +1,3 @@
+- Fixed meeting recordings started with System Default microphone so Bluetooth headset inputs no longer cause pitched-up audio or missing microphone tracks.
+- Added a Show in Finder button to Recording Drafts so saved audio is easier to locate.
+- Improved live recording microphone warnings so capture problems appear as toasts without sending unnecessary error reports.
