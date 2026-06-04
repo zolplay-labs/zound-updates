@@ -1,1 +1,0 @@
-- Fixed microphone capture so the recorded audio level is properly normalized, preventing quiet or unbalanced recordings.

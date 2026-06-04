@@ -1,3 +1,0 @@
-- Activation is now bound to your Mac — invite codes lock to the device that redeems them, so a leaked code can't be reused elsewhere.
-- Live transcription and translation now connect through Zound's realtime gateway, improving connection reliability and securing the audio stream.
-- Activation, transcription, and translation errors now appear in your selected app language with clearer descriptions when the server returns no detail.

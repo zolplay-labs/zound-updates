@@ -1,4 +1,0 @@
-- Added an About section in Settings with the app icon, current version, update checks, and changelog access.
-- Settings are now fully localized in Simplified Chinese, including Dictation keyboard shortcuts, activation modes, and Dictionary help text.
-- Removed the floating Orb feature and its General Settings toggle, keeping Zound focused on the menu bar, Settings, and Voice Island surfaces.
-- Improved Dictation recovery when realtime connections drop or finalization takes longer than expected, so finished text is preserved more reliably.
