@@ -1,0 +1,2 @@
+- Hardened meeting recording processing so sped-up or pitch-shifted mixdowns are rejected before they can be saved as successful captures.
+- Preserved the original recording when processed audio timing is invalid, making recovery possible without uploading a broken file.

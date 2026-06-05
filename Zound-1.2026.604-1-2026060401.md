@@ -1,2 +1,0 @@
-- Fixed meeting recordings where system audio could be saved too short, sped up, and pitch-shifted.
-- Added a finished-recording duration check so invalid captures are detected and preserved for recovery instead of being discarded.
