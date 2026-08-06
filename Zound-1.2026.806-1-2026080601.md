@@ -1,0 +1,6 @@
+- Added secure browser sign-in with automatic session renewal; existing devices migrate seamlessly on first launch.
+- Added Send to Dex: deliver any completed recording's transcript to Dex, automatically or from the library.
+- Overhauled dictation reliability and speed: sessions stay ready between uses, recover cleanly after idle, stream text live as you speak, and return results in about a second.
+- Fixed meeting recording uploads for long recordings, and made large uploads faster and more reliable via direct-to-storage upload.
+- Added audio file import, unified transcript library, live-caption archiving, meeting detection prompts, and dictation history with replay and re-transcription.
+- Improved bilingual (Chinese/English) transcription quality across dictation and meeting recordings.
