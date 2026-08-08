@@ -1,0 +1,1 @@
+- Rapid back-to-back dictations now reliably prepare the next connection during the current dictation, restoring the fast warm path for short dictations.

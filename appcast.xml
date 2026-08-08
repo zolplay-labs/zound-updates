@@ -3,6 +3,20 @@
     <channel>
         <title>Zound</title>
         <item>
+            <title>1.2026.808-2</title>
+            <pubDate>Sat, 08 Aug 2026 08:25:40 +0000</pubDate>
+            <sparkle:version>2026080802</sparkle:version>
+            <sparkle:shortVersionString>1.2026.808-2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://zolplay-labs.github.io/zound-updates/Zound-1.2026.808-2-2026080802.md</sparkle:releaseNotesLink>
+            <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound-1.2026.808-2-2026080802.zip" length="9165692" type="application/octet-stream" sparkle:edSignature="imxr4usH3X8qcEbJ3x2ZK/XLRpYVUNJiy62vhf5IUF9EPdfuwpML9An95ceA830BKmUVAAvRo9FcDkBAHegJBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound2026080802-2026080601.delta" sparkle:deltaFrom="2026080601" length="1057182" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8PLuxUtESVZrx/QfarTv5wJRQCW0bPJkmf0xyqBsGLIlNpLG3alcUTr5GCkLIFR/tCpJV4h0VuljD4GNRLh9AQ=="/>
+                <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound2026080802-2026060501.delta" sparkle:deltaFrom="2026060501" length="3014226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="be3w8BKaZ9MFfep9KCMMKzQFUt6+rten34ioSWfxlOYTnvBi9Iye7I1f6Op8aWcxdloEaJu2ZHv4dJJE3AgECw=="/>
+                <enclosure url="https://zolplay-labs.github.io/zound-updates/Zound2026080802-2026060401.delta" sparkle:deltaFrom="2026060401" length="3028458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GIilIQ5yzdI94oKA9LvLKa6QX9jejjgclLvSkX3N0kE5Q0DNWF+hktX7vjZWArqyZbTJZRPAq285VIJ9MBQ/DQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2026.806-1</title>
             <pubDate>Thu, 06 Aug 2026 09:17:22 +0000</pubDate>
             <sparkle:version>2026080601</sparkle:version>
