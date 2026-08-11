@@ -1,0 +1,2 @@
+- New experimental AI Polish: rewrite finished dictations with per-app profiles — remove filler words, match the app's tone (casual for messaging, professional for email, verbatim for code editors), or write your own custom prompt. Off by default in Settings → Voice Dictation → AI Polish; falls back to your raw words if polishing takes longer than two seconds.
+- Live Preview Typing now retracts corrections through a verified accessibility transaction where apps support it, replacing corrected words without visible backspacing.
