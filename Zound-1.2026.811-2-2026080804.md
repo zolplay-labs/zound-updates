@@ -1,0 +1,1 @@
+- Fixed AI Polish always returning the unchanged dictation instead of the selected polished rewrite.
