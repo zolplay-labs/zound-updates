@@ -1,0 +1,3 @@
+- Fixed microphones connected through 44.1 kHz audio interfaces going silent immediately after capture started.
+- Empty dictations now stop quietly without showing an error, adding an empty history entry, or retaining the recording, including across repeated attempts.
+- Completed Simplified Chinese localization across menus, settings, recording and dictation errors, and other user-facing surfaces, while keeping diagnostic details out of visible copy.
