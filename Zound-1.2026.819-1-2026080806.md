@@ -1,0 +1,1 @@
+- Reduced background CPU use while Zound is idle, especially when a browser is frontmost.
