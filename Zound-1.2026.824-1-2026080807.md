@@ -1,0 +1,2 @@
+- Fixed meeting recordings playing too fast and at a higher pitch when AirPods or other Bluetooth headsets changed audio profiles during capture.
+- Meeting Recording, Dictation, and Microphone Check now detect stalled or interrupted audio capture, stop safely, and preserve recoverable meeting files instead of producing corrupted audio.
