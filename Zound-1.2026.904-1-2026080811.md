@@ -1,0 +1,2 @@
+- Meeting recordings with valid audio now continue into transcription after recording finishes, including when system-audio capture recovered during finalization, so the audio no longer needs to be re-imported manually.
+- Meeting summaries now retry after temporary AI service verification failures, and completed transcripts retain a meaningful transcript-derived title when summary generation remains unavailable.
